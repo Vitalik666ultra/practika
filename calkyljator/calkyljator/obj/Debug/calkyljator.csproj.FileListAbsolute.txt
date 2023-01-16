@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\Экзамен билет 17\calkyljator\calkyljator\bin\Debug\calkyljator.exe.config
+C:\Users\user\Desktop\Экзамен билет 17\calkyljator\calkyljator\bin\Debug\calkyljator.exe
+C:\Users\user\Desktop\Экзамен билет 17\calkyljator\calkyljator\bin\Debug\calkyljator.pdb
+C:\Users\user\Desktop\Экзамен билет 17\calkyljator\calkyljator\obj\Debug\calkyljator.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Экзамен билет 17\calkyljator\calkyljator\obj\Debug\calkyljator.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Экзамен билет 17\calkyljator\calkyljator\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\Экзамен билет 17\calkyljator\calkyljator\obj\Debug\App.g.cs
+C:\Users\user\Desktop\Экзамен билет 17\calkyljator\calkyljator\obj\Debug\calkyljator_MarkupCompile.cache
+C:\Users\user\Desktop\Экзамен билет 17\calkyljator\calkyljator\obj\Debug\calkyljator_MarkupCompile.lref
+C:\Users\user\Desktop\Экзамен билет 17\calkyljator\calkyljator\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\Экзамен билет 17\calkyljator\calkyljator\obj\Debug\calkyljator.g.resources
+C:\Users\user\Desktop\Экзамен билет 17\calkyljator\calkyljator\obj\Debug\calkyljator.Properties.Resources.resources
+C:\Users\user\Desktop\Экзамен билет 17\calkyljator\calkyljator\obj\Debug\calkyljator.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Экзамен билет 17\calkyljator\calkyljator\obj\Debug\calkyljator.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Экзамен билет 17\calkyljator\calkyljator\obj\Debug\calkyljator.exe
+C:\Users\user\Desktop\Экзамен билет 17\calkyljator\calkyljator\obj\Debug\calkyljator.pdb

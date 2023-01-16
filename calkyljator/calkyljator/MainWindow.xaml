@@ -1,0 +1,35 @@
+﻿<Window x:Class="calkyljator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:calkyljator"
+        mc:Ignorable="d"
+             Title="Калькулятор" Height="212" Width="562">
+    <Grid x:Name="suslik">
+        <Image Source="/1614759972_114-p-abstraktsiya-na-chernom-fone-147.jpg" Stretch="Fill"/>
+
+        <TextBox x:Name="Ruslik" HorizontalAlignment="Left" Height="50" Margin="10,70,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Background="#FF00A8EF"/>
+        <TextBox x:Name="suslik1" HorizontalAlignment="Left" Height="50" Margin="273,70,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Background="#FF00A8EF"/>
+        <ComboBox x:Name="clock" HorizontalAlignment="Left" Height="34" Margin="153,79,0,0" VerticalAlignment="Top" Width="98" BorderBrush="#FF0BDA6D" Foreground="Black">
+            <ComboBox.Background>
+                <LinearGradientBrush EndPoint="0,1">
+                    <GradientStop Color="#FFF0F0F0"/>
+                    <GradientStop Color="Black" Offset="1"/>
+                </LinearGradientBrush>
+            </ComboBox.Background>
+            <TextBlock Text="+"/>
+            <TextBlock Text="-"/>
+            <TextBlock Text="/"/>
+            <TextBlock Text="*"/>
+            <TextBlock Text="Sin"/>
+            <TextBlock Text="Cos"/>
+            <TextBlock Text="Tng"/>
+            <TextBlock Text="Ctng"/>
+        </ComboBox>
+        <Label x:Name="otwet" Content="" HorizontalAlignment="Left" Height="33" Margin="438,77,0,0" VerticalAlignment="Top" Width="114" Background="#FF00A8EF"/>
+        <Button x:Name="rowno" Content="=" HorizontalAlignment="Left" Height="33" Margin="398,77,0,0" VerticalAlignment="Top" Width="35" Click="decision_Click" Background="#FF0CF5D0"/>
+        <Label x:Name="info" Content="Sin, Cos, Tg, Ctg вводится в первом окне" HorizontalAlignment="Left" Height="26" Margin="19,160,0,0" VerticalAlignment="Top" Width="232" Foreground="Black" Background="#FF00A8EF"/>
+
+    </Grid>
+</Window>
