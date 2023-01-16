@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\Экзамен билет 17\6 ls\6 ls\bin\Debug\6 ls.exe.config
+C:\Users\user\Desktop\Экзамен билет 17\6 ls\6 ls\bin\Debug\6 ls.exe
+C:\Users\user\Desktop\Экзамен билет 17\6 ls\6 ls\bin\Debug\6 ls.pdb
+C:\Users\user\Desktop\Экзамен билет 17\6 ls\6 ls\obj\Debug\6 ls.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Экзамен билет 17\6 ls\6 ls\obj\Debug\6 ls.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Экзамен билет 17\6 ls\6 ls\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\Экзамен билет 17\6 ls\6 ls\obj\Debug\App.g.cs
+C:\Users\user\Desktop\Экзамен билет 17\6 ls\6 ls\obj\Debug\6 ls_MarkupCompile.cache
+C:\Users\user\Desktop\Экзамен билет 17\6 ls\6 ls\obj\Debug\6 ls_MarkupCompile.lref
+C:\Users\user\Desktop\Экзамен билет 17\6 ls\6 ls\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\Экзамен билет 17\6 ls\6 ls\obj\Debug\6 ls.g.resources
+C:\Users\user\Desktop\Экзамен билет 17\6 ls\6 ls\obj\Debug\_6_ls.Properties.Resources.resources
+C:\Users\user\Desktop\Экзамен билет 17\6 ls\6 ls\obj\Debug\6 ls.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Экзамен билет 17\6 ls\6 ls\obj\Debug\6 ls.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Экзамен билет 17\6 ls\6 ls\obj\Debug\6 ls.exe
+C:\Users\user\Desktop\Экзамен билет 17\6 ls\6 ls\obj\Debug\6 ls.pdb

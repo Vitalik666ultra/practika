@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\Экзамен билет 17\urf\urf\bin\Debug\urf.exe.config
+C:\Users\user\Desktop\Экзамен билет 17\urf\urf\bin\Debug\urf.exe
+C:\Users\user\Desktop\Экзамен билет 17\urf\urf\bin\Debug\urf.pdb
+C:\Users\user\Desktop\Экзамен билет 17\urf\urf\obj\Debug\urf.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Экзамен билет 17\urf\urf\obj\Debug\urf.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Экзамен билет 17\urf\urf\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\Экзамен билет 17\urf\urf\obj\Debug\App.g.cs
+C:\Users\user\Desktop\Экзамен билет 17\urf\urf\obj\Debug\urf_MarkupCompile.cache
+C:\Users\user\Desktop\Экзамен билет 17\urf\urf\obj\Debug\urf_MarkupCompile.lref
+C:\Users\user\Desktop\Экзамен билет 17\urf\urf\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\Экзамен билет 17\urf\urf\obj\Debug\urf.g.resources
+C:\Users\user\Desktop\Экзамен билет 17\urf\urf\obj\Debug\urf.Properties.Resources.resources
+C:\Users\user\Desktop\Экзамен билет 17\urf\urf\obj\Debug\urf.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Экзамен билет 17\urf\urf\obj\Debug\urf.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Экзамен билет 17\urf\urf\obj\Debug\urf.exe
+C:\Users\user\Desktop\Экзамен билет 17\urf\urf\obj\Debug\urf.pdb
