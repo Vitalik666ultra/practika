@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\Экзамен билет 17\zadanie 5.3\zadanie 5.3\bin\Debug\zadanie 5.3.exe.config
+C:\Users\user\Desktop\Экзамен билет 17\zadanie 5.3\zadanie 5.3\bin\Debug\zadanie 5.3.exe
+C:\Users\user\Desktop\Экзамен билет 17\zadanie 5.3\zadanie 5.3\bin\Debug\zadanie 5.3.pdb
+C:\Users\user\Desktop\Экзамен билет 17\zadanie 5.3\zadanie 5.3\obj\Debug\zadanie 5.3.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Экзамен билет 17\zadanie 5.3\zadanie 5.3\obj\Debug\zadanie 5.3.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Экзамен билет 17\zadanie 5.3\zadanie 5.3\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\Экзамен билет 17\zadanie 5.3\zadanie 5.3\obj\Debug\App.g.cs
+C:\Users\user\Desktop\Экзамен билет 17\zadanie 5.3\zadanie 5.3\obj\Debug\zadanie 5.3_MarkupCompile.cache
+C:\Users\user\Desktop\Экзамен билет 17\zadanie 5.3\zadanie 5.3\obj\Debug\zadanie 5.3_MarkupCompile.lref
+C:\Users\user\Desktop\Экзамен билет 17\zadanie 5.3\zadanie 5.3\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\Экзамен билет 17\zadanie 5.3\zadanie 5.3\obj\Debug\zadanie 5.3.g.resources
+C:\Users\user\Desktop\Экзамен билет 17\zadanie 5.3\zadanie 5.3\obj\Debug\zadanie_5._3.Properties.Resources.resources
+C:\Users\user\Desktop\Экзамен билет 17\zadanie 5.3\zadanie 5.3\obj\Debug\zadanie 5.3.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Экзамен билет 17\zadanie 5.3\zadanie 5.3\obj\Debug\zadanie 5.3.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Экзамен билет 17\zadanie 5.3\zadanie 5.3\obj\Debug\zadanie 5.3.exe
+C:\Users\user\Desktop\Экзамен билет 17\zadanie 5.3\zadanie 5.3\obj\Debug\zadanie 5.3.pdb
