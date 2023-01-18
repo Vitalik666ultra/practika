@@ -1,0 +1,16 @@
+C:\Users\илюша\Desktop\lab\zadanie 4.6\zadanie 4.6\bin\Debug\zadanie 4.6.exe.config
+C:\Users\илюша\Desktop\lab\zadanie 4.6\zadanie 4.6\bin\Debug\zadanie 4.6.exe
+C:\Users\илюша\Desktop\lab\zadanie 4.6\zadanie 4.6\bin\Debug\zadanie 4.6.pdb
+C:\Users\илюша\Desktop\lab\zadanie 4.6\zadanie 4.6\obj\Debug\zadanie 4.6.csproj.AssemblyReference.cache
+C:\Users\илюша\Desktop\lab\zadanie 4.6\zadanie 4.6\obj\Debug\zadanie 4.6.csproj.SuggestedBindingRedirects.cache
+C:\Users\илюша\Desktop\lab\zadanie 4.6\zadanie 4.6\obj\Debug\MainWindow.g.cs
+C:\Users\илюша\Desktop\lab\zadanie 4.6\zadanie 4.6\obj\Debug\App.g.cs
+C:\Users\илюша\Desktop\lab\zadanie 4.6\zadanie 4.6\obj\Debug\zadanie 4.6_MarkupCompile.cache
+C:\Users\илюша\Desktop\lab\zadanie 4.6\zadanie 4.6\obj\Debug\zadanie 4.6_MarkupCompile.lref
+C:\Users\илюша\Desktop\lab\zadanie 4.6\zadanie 4.6\obj\Debug\MainWindow.baml
+C:\Users\илюша\Desktop\lab\zadanie 4.6\zadanie 4.6\obj\Debug\zadanie 4.6.g.resources
+C:\Users\илюша\Desktop\lab\zadanie 4.6\zadanie 4.6\obj\Debug\zadanie_4._6.Properties.Resources.resources
+C:\Users\илюша\Desktop\lab\zadanie 4.6\zadanie 4.6\obj\Debug\zadanie 4.6.csproj.GenerateResource.cache
+C:\Users\илюша\Desktop\lab\zadanie 4.6\zadanie 4.6\obj\Debug\zadanie 4.6.csproj.CoreCompileInputs.cache
+C:\Users\илюша\Desktop\lab\zadanie 4.6\zadanie 4.6\obj\Debug\zadanie 4.6.exe
+C:\Users\илюша\Desktop\lab\zadanie 4.6\zadanie 4.6\obj\Debug\zadanie 4.6.pdb

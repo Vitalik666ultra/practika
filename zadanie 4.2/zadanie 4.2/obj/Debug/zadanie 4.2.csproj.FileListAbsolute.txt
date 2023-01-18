@@ -1,0 +1,16 @@
+C:\Users\илюша\Desktop\lab\zadanie 4.2\zadanie 4.2\bin\Debug\zadanie 4.2.exe.config
+C:\Users\илюша\Desktop\lab\zadanie 4.2\zadanie 4.2\bin\Debug\zadanie 4.2.exe
+C:\Users\илюша\Desktop\lab\zadanie 4.2\zadanie 4.2\bin\Debug\zadanie 4.2.pdb
+C:\Users\илюша\Desktop\lab\zadanie 4.2\zadanie 4.2\obj\Debug\zadanie 4.2.csproj.AssemblyReference.cache
+C:\Users\илюша\Desktop\lab\zadanie 4.2\zadanie 4.2\obj\Debug\zadanie 4.2.csproj.SuggestedBindingRedirects.cache
+C:\Users\илюша\Desktop\lab\zadanie 4.2\zadanie 4.2\obj\Debug\MainWindow.g.cs
+C:\Users\илюша\Desktop\lab\zadanie 4.2\zadanie 4.2\obj\Debug\App.g.cs
+C:\Users\илюша\Desktop\lab\zadanie 4.2\zadanie 4.2\obj\Debug\zadanie 4.2_MarkupCompile.cache
+C:\Users\илюша\Desktop\lab\zadanie 4.2\zadanie 4.2\obj\Debug\zadanie 4.2_MarkupCompile.lref
+C:\Users\илюша\Desktop\lab\zadanie 4.2\zadanie 4.2\obj\Debug\MainWindow.baml
+C:\Users\илюша\Desktop\lab\zadanie 4.2\zadanie 4.2\obj\Debug\zadanie 4.2.g.resources
+C:\Users\илюша\Desktop\lab\zadanie 4.2\zadanie 4.2\obj\Debug\zadanie_4._2.Properties.Resources.resources
+C:\Users\илюша\Desktop\lab\zadanie 4.2\zadanie 4.2\obj\Debug\zadanie 4.2.csproj.GenerateResource.cache
+C:\Users\илюша\Desktop\lab\zadanie 4.2\zadanie 4.2\obj\Debug\zadanie 4.2.csproj.CoreCompileInputs.cache
+C:\Users\илюша\Desktop\lab\zadanie 4.2\zadanie 4.2\obj\Debug\zadanie 4.2.exe
+C:\Users\илюша\Desktop\lab\zadanie 4.2\zadanie 4.2\obj\Debug\zadanie 4.2.pdb

@@ -1,0 +1,16 @@
+﻿<Window x:Class="zadanie_4._6.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:zadanie_4._6"
+        mc:Ignorable="d"
+        Title="" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="Button" Content="расчитать" HorizontalAlignment="Left" Margin="242,217,0,0" VerticalAlignment="Top" Width="74" Height="39" Click="Button_Click" Background="White"/>
+        <TextBox x:Name="TBA" HorizontalAlignment="Left" Height="63" Margin="205,133,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="148" RenderTransformOrigin="-0.115,0.406"/>
+        <TextBlock x:Name="TBB" HorizontalAlignment="Left" Height="27" Margin="405,160,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="213" FontSize="16"/>
+        <TextBlock HorizontalAlignment="Left" Height="32" Margin="205,101,0,0" TextWrapping="Wrap" Text="Введите факториал:" VerticalAlignment="Top" Width="148" FontSize="16"/>
+        <TextBlock HorizontalAlignment="Left" Height="39" Margin="369,144,0,0" TextWrapping="Wrap" Text="=" VerticalAlignment="Top" Width="31" FontSize="32"/>
+    </Grid>
+</Window>
